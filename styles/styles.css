@@ -1,0 +1,49 @@
+header{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1900px;
+    height: 908px;
+}    
+.header{
+    position: relative;
+    top: 286px;
+    left: 1200px;
+    text-align: right;
+    
+    
+    
+
+}
+section{
+    text-align: left;
+}
+.top-heading{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    width: 520px;
+    height: 100px;
+    align-items: right;
+    font-size: 50px;
+}
+.first-p{
+    padding-top: 50px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 1380px;
+}
+.contact-us{
+    border-style: none;
+    height: 64px;
+    width: 160px;
+    background: #f15b22;
+    color: #ffffff;
+    border-radius: 5px;
+    margin-left: 350px;
+    margin-top: 20px;
+    margin-right: 1380px;
+}
