@@ -80,3 +80,14 @@ main section ul li{
     margin-left: 450px;
     margin-top: 350px;
 }
+.my-plan{
+    position: relative;
+    top: 200px;
+    left: 900px;
+}
+.ul{
+    display: flex;
+    margin-top: 400px;
+    margin-left: 150px;
+    gap: 200px;
+}
