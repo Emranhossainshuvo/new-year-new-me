@@ -88,6 +88,47 @@ main section ul li{
 .ul{
     display: flex;
     margin-top: 400px;
-    margin-left: 150px;
-    gap: 200px;
+    margin-left: 300px;
+    gap: 100px;
+}
+.image{
+    position: relative;
+    left:360px;
+    top:80px;
+}
+.image-overlay{
+    position: relative;
+    left: 350px;
+}
+.image-watch{
+    
+    top: 100px;
+}
+.image-gradi{
+    position: absolute;
+    top: 1px;
+}
+.motiv-button{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    position: absolute;
+    top: 130px;
+    left: 20px;
+}
+.button-end{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    border-style: none;
+    border-radius: 5px;
+    position: relative;
+    top: 90px;
+    right: 260px;
+    height: 50px;
+    width: 150px;
+    color: blue;
+    font-size: 18px;
 }
